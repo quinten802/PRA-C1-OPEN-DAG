@@ -3,15 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Open dag</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <header>
-        <img src="img/curio-03-geel-logo-rgb.png" alt="curio-logo">
-        <h1>Open dag</h1>
+        <img class="header-things" src="img/curio-03-geel-logo-rgb.png" alt="curio-logo" width="10%">
+        <h1 class="header-things">Open dag</h1>
     </header>
-    <main></main>
+    <main>
+        <div class="wrapper">
+            <div class="text-segment">
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos iste facilis sit, voluptatibus perferendis, aperiam minima exercitationem earum ipsam blanditiis, architecto repellendus reprehenderit! Non aperiam, libero omnis aut cum repudiandae.</p>
+                <img src="img/cry.png" alt="tets" width="1000">
+
+                 <!-- joke -->
+                 <!-- <iframe src="https://ubgw.gitlab.io/subway-surfers-2024/" frameborder="0" style="border: 0; width:100%; height: 500px; overflow: auto;"></iframe> -->
+            </div>
+        </div>
+    </main>
     <footer></footer>
 </body>
 </html>
