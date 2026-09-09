@@ -13,15 +13,36 @@
     </header>
     <main>
         <div class="wrapper">
+            <h2>Wat is de opleiding</h2>
             <div class="text-segment">
                 <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos iste facilis sit, voluptatibus perferendis, aperiam minima exercitationem earum ipsam blanditiis, architecto repellendus reprehenderit! Non aperiam, libero omnis aut cum repudiandae.</p>
                 <img src="img/cry.png" alt="tets" width="1000">
-
-                 <!-- joke -->
-                 <!-- <iframe src="https://ubgw.gitlab.io/subway-surfers-2024/" frameborder="0" style="border: 0; width:100%; height: 500px; overflow: auto;"></iframe> -->
             </div>
-        </div>
+            <h2>Wat kun je na deze opleiding doen</h2>
+            <div class="text-segment">
+                <img src="img/cry.png" alt="tets" width="1000">
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos iste facilis sit, voluptatibus perferendis, aperiam minima exercitationem earum ipsam blanditiis, architecto repellendus reprehenderit! Non aperiam, libero omnis aut cum repudiandae.</p>
+            </div>
+            <h2>Overzicht hoe de opleiding loopt</h2>
+            <div class="text-segment">
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos iste facilis sit, voluptatibus perferendis, aperiam minima exercitationem earum ipsam blanditiis, architecto repellendus reprehenderit! Non aperiam, libero omnis aut cum repudiandae.</p>
+                <img src="img/cry.png" alt="tets" width="1000">
+            </div>
+            <h2>Vakken die je in het eestre jaar krijgt</h2>
+            <div class="text-segment">
+                <img src="img/cry.png" alt="tets" width="1000">
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos iste facilis sit, voluptatibus perferendis, aperiam minima exercitationem earum ipsam blanditiis, architecto repellendus reprehenderit! Non aperiam, libero omnis aut cum repudiandae.</p>
+            </div>
+            <h2>Zak/slaag regeling bij reguliere vakken</h2>
+            <div class="text-segment">
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos iste facilis sit, voluptatibus perferendis, aperiam minima exercitationem earum ipsam blanditiis, architecto repellendus reprehenderit! Non aperiam, libero omnis aut cum repudiandae.</p>
+                <img src="img/cry.png" alt="tets" width="1000">
+            </div>
+            <h2>Werken in groepen</h2>
+            <div class="text-segment">
+                <img src="img/cry.png" alt="tets" width="1000">
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos iste facilis sit, voluptatibus perferendis, aperiam minima exercitationem earum ipsam blanditiis, architecto repellendus reprehenderit! Non aperiam, libero omnis aut cum repudiandae.</p>
+            </div>
     </main>
-    <footer></footer>
 </body>
 </html>
