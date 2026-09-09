@@ -30,3 +30,6 @@ main{
 {
     display: flex;
 }
+img{
+    padding: 10px;
+}
