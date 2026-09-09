@@ -15,23 +15,23 @@
         <div class="wrapper">
             <h2>Wat is de opleiding</h2>
             <div class="text-segment">
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos iste facilis sit, voluptatibus perferendis, aperiam minima exercitationem earum ipsam blanditiis, architecto repellendus reprehenderit! Non aperiam, libero omnis aut cum repudiandae.</p>
+                <p>Bij de opleiding software developer leer je alles over programmeren. Je leert talen zoals HTML, CSS, PHP, C# en meer! </p>
                 <img src="img/coding.jpg" alt="coding" width="500">
             </div>
             <h2>Wat kun je na deze opleiding doen</h2>
             <div class="text-segment">
                 <img src="img/67 low quality.jpg" alt="coding" width="1000">
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos iste facilis sit, voluptatibus perferendis, aperiam minima exercitationem earum ipsam blanditiis, architecto repellendus reprehenderit! Non aperiam, libero omnis aut cum repudiandae.</p>
+                <p>Je kan werken bij bedrijven die alleen software maken, je kan bij bedrijven werken die andere dingen hebben maar er ook geprogrammeerd wordt. Je kan ook een andere opleiding doen zoals game development doen en die kant op gaan.</p>
             </div>
             <h2>Overzicht hoe de opleiding loopt</h2>
             <div class="text-segment">
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos iste facilis sit, voluptatibus perferendis, aperiam minima exercitationem earum ipsam blanditiis, architecto repellendus reprehenderit! Non aperiam, libero omnis aut cum repudiandae.</p>
+                <p>De opleiding is verdeeld in blokken, elk jaar heb je 2 blokken. Als je een blok zakt blijf je in dat blok zitten.</p>
                 <img src="img/Opleidingsoverzicht 26-27.jpg" alt="overzicht" width="500">
             </div>
             <h2>Vakken die je in het eestre jaar krijgt</h2>
             <div class="text-segment">
                 <img src="img/Rooster eerste leerjaar.png" alt="rooster" width="700">
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos iste facilis sit, voluptatibus perferendis, aperiam minima exercitationem earum ipsam blanditiis, architecto repellendus reprehenderit! Non aperiam, libero omnis aut cum repudiandae.</p>
+                <p>Je krijgt Native, Web, PRA, DIV, Nederlands, Engels en Rekenen.</p>
             </div>
             <h2>Zak/slaag regeling bij reguliere vakken</h2>
             <div class="text-segment">
