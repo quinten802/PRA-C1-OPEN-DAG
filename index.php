@@ -35,7 +35,7 @@
             </div>
             <h2>Zak/slaag regeling bij reguliere vakken</h2>
             <div class="text-segment">
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos iste facilis sit, voluptatibus perferendis, aperiam minima exercitationem earum ipsam blanditiis, architecto repellendus reprehenderit! Non aperiam, libero omnis aut cum repudiandae.</p>
+                <p>Je krijgt ook examens voor Nederlands, Engels en Rekenen. Je moet deze examens halen om je diploma te halen. Als je zakt kan je altijd 1 herkansing krijgen. Je kan ook nog een derke kans krijgen maar dat is alleen in bepaalde situaties. Daarna is het betalen.</p>
                 <img src="img/GettyImages-1148667096.jpg" alt="tets">
             </div>
             <h2>Werken in groepen</h2>
