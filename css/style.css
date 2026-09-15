@@ -26,9 +26,13 @@ header{
 main{
     padding: 10px;
 }
+.segment{
+    display: flex;
+}
 .text-segment
 {
     display: flex;
+    flex-direction: column;
 }
 img{
     padding: 10px;
@@ -42,6 +46,12 @@ p{
 }
 h2{
     padding: 10px;
+}
+footer{
+    background-color: #004c35;
+    color: #fc0;  
+    font-weight: bold;
+    text-align: right; 
 }
 @media screen and (max-width: 480px) {
     .text-segment{
