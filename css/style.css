@@ -68,6 +68,9 @@ footer{
     text-align: right; 
 }
 @media screen and (max-width: 480px) {
+    .segment{
+        flex-direction: column;
+    }
     .text-segment{
         flex-direction: column;
     }

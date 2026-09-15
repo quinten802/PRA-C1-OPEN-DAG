@@ -9,7 +9,7 @@
 <body>
     <header>
         <div class="logo">
-            <img class="header-img" src="img/curio-03-geel-logo-rgb.png" alt="curio-logo" width="1000000000000000%">
+            <img class="header-img" src="img/curio-03-geel-logo-rgb.png" alt="curio-logo">
             <h1>Open dag</h1>
         </div>
         <div class="buttons">
@@ -24,7 +24,7 @@
     <main>
         <div class="wrapper">
 
-            <div class="segment">
+            <div id="opleiding" class="segment">
                 <div class="text-segment">
                     <h2>Over de opleiding</h2>
                     <p>Bij de opleiding software developer leer je alles over programmeren. Je leert talen zoals HTML, CSS, PHP, C# en meer!</p>
@@ -32,7 +32,7 @@
                 <img src="img/software-dev.jpg" alt="software-dev">
             </div>
             
-            <div class="segment">
+            <div id="na" class="segment">
                 <img src="img/coding.jpg" alt="coding">
 
                 <div class="text-segment">
@@ -41,7 +41,7 @@
                 </div>
             </div>
 
-            <div class="segment">
+            <div id="overzicht" class="segment">
                 <div class="text-segment">
                     <h2>Overzicht over de opleiding</h2>
                     <p>De opleiding is verdeeld in blokken, elk jaar heb je 2 blokken. Als je een blok zakt blijf je in dat blok zitten.</p>
@@ -49,7 +49,7 @@
                 <img src="img/Opleidingsoverzicht 26-27.jpg" alt="overzicht">
             </div>
 
-            <div class="segment">
+            <div id="rooster" class="segment">
                 <img src="img/Rooster eerste leerjaar.png" alt="rooster">
                 <div class="text-segment">
                     <h2>Het eerste jaar</h2>
@@ -57,15 +57,16 @@
                 </div>
             </div>
 
-            <div class="segment">
+            <div id="regeling" class="segment">
                 <div class="text-segment">
                     <h2>Zak/slaag regeling</h2>
                     <p>Je krijgt ook examens voor Nederlands, Engels en Rekenen. Je moet deze examens halen om je diploma te halen. Als je zakt kan je altijd 1 herkansing krijgen. Je kan ook nog een derke kans krijgen maar dat is alleen in bepaalde situaties. Daarna is het betalen.</p>
                 </div>
                 <img src="img/GettyImages-1148667096.jpg" alt="tets">
+
             </div>
 
-            <div class="segment">
+            <div id="groep" class="segment">
                 <img src="img/coding-group.jpg" alt="code-groep">
                 <div class="text-segment">
                     <h2>Werken in groepen</h2>
@@ -78,40 +79,40 @@
     </footer>
 </body>
 <script>
-document.getElementById("opleidingScroll").onclick = function() {scrollFunction()};
+document.getElementById("opleidingScroll").onclick = function() {scrollOpleiding()};
 
-function scrollFunction() {
-  scrollTo(0, 1000);
+function scrollOpleiding() {
+    document.getElementById("opleiding").scrollIntoView();
 }
 
-document.getElementById("naOpleidingScroll").onclick = function() {scrollFunction()};
+document.getElementById("naOpleidingScroll").onclick = function() {scrollNaOpleiding()};
 
-function scrollFunction() {
-  scrollTo(0, 1000);
+function scrollNaOpleiding() {
+    document.getElementById("na").scrollIntoView();
 }
 
-document.getElementById("overzichtScroll").onclick = function() {scrollFunction()};
+document.getElementById("overzichtScroll").onclick = function() {scrollOverzicht()};
 
-function scrollFunction() {
-  scrollTo(0, 1000);
+function scrollOverzicht() {
+    document.getElementById("overzicht").scrollIntoView();
 }
 
-document.getElementById("vakkenScroll").onclick = function() {scrollFunction()};
+document.getElementById("vakkenScroll").onclick = function() {scrollVakken()};
 
-function scrollFunction() {
-  scrollTo(0, 1000);
+function scrollVakken() {
+    document.getElementById("rooster").scrollIntoView();
 }
 
-document.getElementById("reguliereScroll").onclick = function() {scrollFunction()};
+document.getElementById("reguliereScroll").onclick = function() {scrollReguliere()};
 
-function scrollFunction() {
-  scrollTo(0, 1000);
+function scrollReguliere() {
+    document.getElementById("regeling").scrollIntoView();
 }
 
-document.getElementById("groepenScroll").onclick = function() {scrollFunction()};
+document.getElementById("groepenScroll").onclick = function() {scrollGroepen()};
 
-function scrollFunction() {
-  scrollTo(0, 1000);
+function scrollGroepen() {
+    document.getElementById("groep").scrollIntoView();
 }
 </script>
 </html>
