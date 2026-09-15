@@ -34,14 +34,14 @@ button{
     overflow: hidden;
     outline: none;
 }
-.buttons{
-    white-space: nowrap;
-}
 main{
     padding: 10px;
 }
 .segment{
     display: flex;
+}
+.reverse{
+    flex-direction: row-reverse;
 }
 .text-segment
 {
