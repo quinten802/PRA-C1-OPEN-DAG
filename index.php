@@ -43,7 +43,7 @@
             <div id="overzicht" class="segment">
                 <div class="text-segment">
                     <h2>Overzicht over de opleiding</h2>
-                    <p>De opleiding is verdeeld in blokken, elk jaar heb je 2 blokken. Als je een blok zakt blijf je in dat blok zitten. Je gaat dus niet terug naar de eerste als je blok D in de tweede zakt. Je moet ook nog stage lopen. Dat doe je in de tweede en de vierde.</p>
+                    <p>De opleiding is verdeeld in blokken, elk jaar heb je 2 blokken. Als je een blok zakt blijf je in dat blok zitten. Je gaat dus niet terug naar de eerste als je blok D in de tweede zakt. Je moet ook nog stage lopen. Dat doe je in de tweede en de vierde. Er is ook nog een mogelijkheid om te versnellen. Dan kan je eerder klaar met de opleiding zijn.</p>
                 </div>
                 <img src="img/Opleidingsoverzicht 26-27.jpg" alt="overzicht">
             </div>
