@@ -80,37 +80,37 @@
 document.getElementById("opleidingScroll").onclick = function() {scrollOpleiding()};
 
 function scrollOpleiding() {
-    document.getElementById("opleiding").scrollIntoView();
+    document.getElementById("opleiding").scrollIntoView({ behavior: "smooth"});
 }
 
 document.getElementById("naOpleidingScroll").onclick = function() {scrollNaOpleiding()};
 
 function scrollNaOpleiding() {
-    document.getElementById("na").scrollIntoView();
+    document.getElementById("na").scrollIntoView({ behavior: "smooth"});
 }
 
 document.getElementById("overzichtScroll").onclick = function() {scrollOverzicht()};
 
 function scrollOverzicht() {
-    document.getElementById("overzicht").scrollIntoView();
+    document.getElementById("overzicht").scrollIntoView({ behavior: "smooth"});
 }
 
 document.getElementById("vakkenScroll").onclick = function() {scrollVakken()};
 
 function scrollVakken() {
-    document.getElementById("rooster").scrollIntoView();
+    document.getElementById("rooster").scrollIntoView({ behavior: "smooth"});
 }
 
 document.getElementById("reguliereScroll").onclick = function() {scrollReguliere()};
 
 function scrollReguliere() {
-    document.getElementById("regeling").scrollIntoView();
+    document.getElementById("regeling").scrollIntoView({ behavior: "smooth"});
 }
 
 document.getElementById("groepenScroll").onclick = function() {scrollGroepen()};
 
 function scrollGroepen() {
-    document.getElementById("groep").scrollIntoView();
+    document.getElementById("groep").scrollIntoView({ behavior: "smooth"});
 }
 </script>
 </html>
